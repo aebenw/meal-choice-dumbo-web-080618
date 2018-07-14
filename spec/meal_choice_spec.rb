@@ -1,4 +1,4 @@
-require '.lib/meal_choice.rb'
+require './lib/meal_choice.rb'
 
 describe '#meal_choice' do
   it 'should default to meat' do
